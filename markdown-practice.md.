@@ -1,0 +1,76 @@
+## My Learning Goals
+### This Semester
+
+---
+
+## Exercise 2 — Text Formatting
+I am **committed** to learning *consistently* and I practice every day using `git status`.
+---
+
+## Exercise 3 — Links
+
+- [My GitHub Profile](https://github.com/kamande99-git)
+- [Markdown Guide](https://www.markdownguide.org)
+
+---
+
+## Exercise 4 — Lists
+
+### Things I Want to Learn
+- Git and GitHub
+- HTML & CSS
+- JavaScript
+
+### Steps to Make a Commit in Git
+1. Stage files using `git add .`
+2. Commit changes using `git commit -m "message"`
+3. Push changes using `git push`
+
+---
+
+## Exercise 5 — Table
+
+| Tool     | Purpose              | Link |
+|----------|----------------------|------|
+| Git      | Version control      | https://git-scm.com |
+| GitHub   | Host repositories    | https://github.com |
+
+---
+
+## Exercise 6 — Task List
+
+- [ ] Create a GitHub account
+- [ ] Learn basic Markdown
+- [ ] Write a README file
+- [ ] Build my first project
+
+---
+
+## Exercise 7 — Code Block
+
+```bash
+git status
+git add .
+git commit -m "My first markdown practice"
+
+Exercise 8 — Blockquote
+
+    Progress matters more than perfection.
+
+
+About Me
+
+Hi, I’m Dorine Wangui Kamande, a beginner developer learning Git, GitHub, and web development.
+
+    I document my learning using Markdown
+
+    I track progress with task lists
+
+    I use tables to organize tools
+
+    I write code blocks like git commit
+
+    I link my work on GitHub
+
+    My goal is to grow one step at a time 🚀
+COMMIT MASSEGE ADD MARKDOWN PRACTICE EXERCISES
