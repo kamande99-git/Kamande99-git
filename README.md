@@ -20,5 +20,5 @@
 - Writing and improving README documentation.
 
 ## How to Reach Me
-- Email: kamanudiana41@gmail.com
+- Email: dorinekamamde@gmail.com
 
